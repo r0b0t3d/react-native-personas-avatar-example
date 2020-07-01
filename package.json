@@ -13,7 +13,7 @@
     "react": "~16.11.0",
     "react-dom": "~16.11.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-38.0.0.tar.gz",
-    "react-native-personas-avatar": "^0.0.2",
+    "react-native-personas-avatar": "^0.0.3",
     "react-native-svg": "12.1.0",
     "react-native-web": "~0.11.7"
   },

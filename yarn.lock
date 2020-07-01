@@ -4138,10 +4138,10 @@ react-is@^16.12.0, react-is@^16.8.1, react-is@^16.8.4:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
   integrity sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==
 
-react-native-personas-avatar@^0.0.2:
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/react-native-personas-avatar/-/react-native-personas-avatar-0.0.2.tgz#2d6a30251cf713ee0c791b1ce43ecd5f21cf13d6"
-  integrity sha512-7WGHDfWUa5pLzmbK1qvjomG7wniCCgoSRt+faSHHo++3zVUYBkJAg3omTUlN/j/wCrUqGYa5B/NdcQoSum4kKQ==
+react-native-personas-avatar@^0.0.3:
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/react-native-personas-avatar/-/react-native-personas-avatar-0.0.3.tgz#691a8b1e7aa28a58b09eb07cead153da30881412"
+  integrity sha512-RXAXZ/ebBImFpkiLLgKj2pj76Jon1yA0ROHf8m2+A41+QJXLjrc3K0NEkPXQn8146Rowt2mVelZBPLpkeV5R6g==
 
 react-native-safe-area-context@3.0.2:
   version "3.0.2"
